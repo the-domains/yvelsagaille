@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[yvelsagaille]]></title>
         <description><![CDATA[yvelsagaille]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yvelsagaille/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 07:33:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 07:33:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yvelsagaille/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/242dabb3-c1de-41d4-909e-c742c37183af.jpg">]]></description>
+            <link>https://thegrid.ai/yvelsagaille/f4a8d833-dfec-446e-949e-d90becb63758/index.html</link>
+            <guid isPermaLink="false">f4a8d833-dfec-446e-949e-d90becb63758</guid>
+            <pubDate>Tue, 24 May 2016 07:32:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8daeb15-ffa7-4609-90f7-2de8b3f14c05.jpg">]]></description>
-            <link>undefinedf1d7e45a-bd75-4bde-8781-c9371a4bb9f3/index.html</link>
+            <link>https://thegrid.ai/yvelsagaille/f1d7e45a-bd75-4bde-8781-c9371a4bb9f3/index.html</link>
             <guid isPermaLink="false">f1d7e45a-bd75-4bde-8781-c9371a4bb9f3</guid>
             <pubDate>Tue, 24 May 2016 07:32:51 GMT</pubDate>
         </item>
