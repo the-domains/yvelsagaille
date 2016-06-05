@@ -1,0 +1,28 @@
+name: yvelsagaille
+favicon: null
+layout_spectrum: 0.6340267560444772
+typography_spectrum: 0.4774677222594619
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#090909'
+    - '#2f2f2f'
+    - '#9a9a9a'
+    - '#484848'
+    - '#d1d1d1'
+  brandStrength: 0.8281427549663931
+  lightness: 0.5002276997547597
+  saturation: 0.07945473538711667
+  rhythmicContrast: 0.6664722736459225
+purpose: []
